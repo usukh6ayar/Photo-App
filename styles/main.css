@@ -1,0 +1,14 @@
+.cs142-main-topbar-buffer {
+	margin-top: 63px;
+}
+
+.cs142-main-grid-item {
+	height: 95%;
+	padding: 2%;
+	height: calc(100vh - 85px);
+}
+
+body {
+	background: #7ab2b2;
+	overflow-x: hidden;
+}
